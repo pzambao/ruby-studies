@@ -2,7 +2,7 @@
 
 This repository aims to store learnings and challenges made during my journey with Ruby language
 
-## present systems
+## Present systems
 
 - **banco.rb:** Main logics and operations of a bank atm system
   - Registration system
